@@ -1,360 +1,185 @@
-# <div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving\&height=220\&color=0:000000,50:2E004F,100:9A00FF\&text=HARUTO\&fontColor=ffffff\&fontSize=60\&animation=fadeIn\&fontAlignY=38" width="100%" />
+![Header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,50:2E004F,100:9A00FF&text=HARUTO&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=24\&pause=1000\&color=9A00FF\&center=true\&vCenter=true\&width=900\&lines=Full+Stack+Developer;AI+Engineer;Creative+Technologist;Discord+Bot+Developer;Linux+Power+User;Always+Learning+New+Things" />
+<!-- Typing Animation -->
+![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9A00FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+Engineer;Creative+Technologist)
 
 ### Full Stack Developer • AI Engineer • Creative Technologist
 
 <p>
-<a href="https://github.com/HarutoFX"><img src="https://img.shields.io/github/followers/HarutoFX?style=for-the-badge\&logo=github\&color=9A00FF"/></a>
-<img src="https://komarev.com/ghpvc/?username=HarutoFX\&style=for-the-badge\&color=9A00FF"/>
+  <a href="https://github.com/HarutoFX">
+    <img src="https://img.shields.io/github/followers/HarutoFX?style=for-the-badge&logo=github&color=9A00FF"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=HarutoFX&style=for-the-badge&color=9A00FF"/>
+</p>
+
+<!-- Social Links -->
+<p>
+  <a href="https://twitter.com/harutofx">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=flat&logo=X&logoColor=9A00FF" alt="X"/>
+  </a>
+  <a href="https://linkedin.com/in/harutofx">
+    <img src="https://img.shields.io/badge/LinkedIn-%23000000.svg?style=flat&logo=linkedin&logoColor=9A00FF" alt="LinkedIn"/>
+  </a>
+  <a href="https://discord.com/users/harutofx">
+    <img src="https://img.shields.io/badge/Discord-%23000000.svg?style=flat&logo=discord&logoColor=9A00FF" alt="Discord"/>
+  </a>
+  <a href="https://haruto.dev">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=9A00FF" alt="Portfolio"/>
+  </a>
 </p>
 
 </div>
 
-\---
+---
 
-# 👋 About Me
+## 👋 About Me
 
-I'm **HARUTO**, a developer passionate about building modern applications, AI-powered tools, Discord bots, automation systems, and creative digital experiences.
+I'm a creative technologist who thrives at the intersection of logic and imagination. My expertise spans robust backend architectures, modern frontend experiences, AI-powered automation, and immersive 3D digital creation.
 
-* 🚀 Full Stack Developer
-* 🤖 AI Engineer
-* 💬 Discord Bot Developer
-* 🎬 Motion Designer
-* 🎨 3D Artist
-* 🐧 Linux Power User
-* 🌍 Open Source Enthusiast
-* 📚 Always learning new technologies
+- 🚀 **Full Stack Developer** crafting high-performance web applications
+- 🤖 **AI Engineer** building intelligent bots and automated ecosystems  
+- 💬 **Discord Developer** specializing in community engagement tools
+- 🎬 **Motion Designer** merging code with creative storytelling
+- 🎨 **3D Artist** creating immersive digital experiences
+- 🐧 **Linux Power User** & Open Source Enthusiast
+- 📚 Lifelong learner pushing the boundaries of technology
 
-\---
+---
 
-# 🎯 Current Focus
+## 🎯 Current Focus
 
-* AI Agents
-* Full Stack Applications
-* Automation
-* Open Source
-* Discord Platforms
+- Architecting scalable Discord integrations with advanced AI
+- Refining semantic memory structures for conversational AI
+- Bridging 3D motion design with web technologies
+- Optimizing CI/CD pipelines and deployment strategies
+- Building intelligent automation tools
 
-# 📖 Currently Learning
+## 📖 Currently Learning
 
-* Advanced AI Workflows
-* Kubernetes
-* Cloud Infrastructure
-* Scalable Backend Systems
+- Advanced Retrieval-Augmented Generation (RAG) systems
+- Rust for high-performance microservices
+- Generative AI model fine-tuning & prompt optimization
+- Advanced compositing and motion graphics techniques
 
-\---
+---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
-## Languages
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-!\[JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge\&logo=javascript)
-!\[TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge\&logo=typescript)
-!\[Python](https://img.shields.io/badge/Python-black?style=for-the-badge\&logo=python)
-!\[Lua](https://img.shields.io/badge/Lua-black?style=for-the-badge\&logo=lua)
-!\[HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge\&logo=html5)
-!\[CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge\&logo=css3)
-!\[SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge)
-!\[Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge\&logo=gnubash)
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
-## Frameworks
+### AI & Machine Learning
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3144?style=for-the-badge&logo=chainlink&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-4D1F0D?style=for-the-badge)
 
-React • Next.js • Node.js • Express • Discord.js
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-## AI
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088F0?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-OpenAI API • Ollama • LangChain • AI Agents • Prompt Engineering • Automation
+### Creative Suite
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
 
-## Databases
+---
 
-MongoDB • PostgreSQL • Redis • SQLite
+## 🚀 Featured Projects
 
-## DevOps
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **🤖 CASUAL CREW AI** | Robust AI ecosystem for community interaction with dynamic persona switching and semantic memory | Python • LangChain • OpenAI |
+| **💬 Discord Bot Architecture** | Enterprise-grade Discord applications with slash commands, music streaming, and customizable systems | TypeScript • Discord.js • Node.js |
+| **⚡ Intelligent Automation** | OS-level scripts and data pipelines optimizing Linux environments and reducing developer friction | Bash • Docker • GitHub Actions |
+| **🌐 Immersive Web Apps** | Modern full-stack applications with 3D integrations and seamless UI/UX | Next.js • React • Three.js • Tailwind |
 
-Docker • Git • GitHub Actions • Linux • Nginx • Vercel
+---
 
-## Creative
-
-Blender • Photoshop • After Effects • Premiere Pro
-
-\---
-
-# 🚀 Featured Projects
-
-|Project|Description|
-|-|-|
-|**CASUAL CREW AI**|AI-powered Discord ecosystem|
-|**Discord Bots**|Scalable moderation \& automation bots|
-|**AI Assistants**|Local and cloud AI assistants|
-|**Automation Tools**|Productivity workflows|
-|**Web Applications**|Modern full-stack apps|
-
-\---
-
-# 📊 GitHub Analytics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=HarutoFX\&show\_icons=true\&theme=midnight-purple"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=HarutoFX\&theme=midnight-purple"/>
-</p>
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarutoFX\&layout=compact\&theme=midnight-purple"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=HarutoFX\&theme=algolia\&column=4"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HarutoFX\&theme=react-dark"/>
-</p>
-
-\---
-
-# 💬 Developer Quote
-
-> "Build things that solve problems, automate the boring, and never stop learning."
-
-\---
-
-# 🐍 Contribution Snake
-
-> Enable the GitHub Action below after creating your repository:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 \*/12 \* \* \*"
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-```
-
-\---
-
-# 🤝 Connect
-
-* GitHub: https://github.com/HarutoFX
-
-\---
-
-# ☕
-
-If you enjoy my work, consider supporting me:
-
-* Buy Me a Coffee
-* Ko-fi
-
-\---
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving\&section=footer\&height=140\&color=0:000000,50:2E004F,100:9A00FF"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=HarutoFX&show_icons=true&theme=midnight-purple&title_color=9A00FF&text_color=ffffff&bg_color=0d0d1a&border_color=9A00FF"/>
 
-**Thanks for visiting!**
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=HarutoFX&theme=midnight-purple&background=0d0d1a&ring=9A00FF&fire=9A00FF&currStreakNum=ffffff&sideNums=ffffff"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarutoFX&layout=compact&theme=midnight-purple&title_color=9A00FF&text_color=ffffff&bg_color=0d0d1a&border_color=9A00FF"/>
 
 </div>
-<!-- reserved-section-166 -->
-<!-- reserved-section-167 -->
-<!-- reserved-section-168 -->
-<!-- reserved-section-169 -->
-<!-- reserved-section-170 -->
-<!-- reserved-section-171 -->
-<!-- reserved-section-172 -->
-<!-- reserved-section-173 -->
-<!-- reserved-section-174 -->
-<!-- reserved-section-175 -->
-<!-- reserved-section-176 -->
-<!-- reserved-section-177 -->
-<!-- reserved-section-178 -->
-<!-- reserved-section-179 -->
-<!-- reserved-section-180 -->
-<!-- reserved-section-181 -->
-<!-- reserved-section-182 -->
-<!-- reserved-section-183 -->
-<!-- reserved-section-184 -->
-<!-- reserved-section-185 -->
-<!-- reserved-section-186 -->
-<!-- reserved-section-187 -->
-<!-- reserved-section-188 -->
-<!-- reserved-section-189 -->
-<!-- reserved-section-190 -->
-<!-- reserved-section-191 -->
-<!-- reserved-section-192 -->
-<!-- reserved-section-193 -->
-<!-- reserved-section-194 -->
-<!-- reserved-section-195 -->
-<!-- reserved-section-196 -->
-<!-- reserved-section-197 -->
-<!-- reserved-section-198 -->
-<!-- reserved-section-199 -->
-<!-- reserved-section-200 -->
-<!-- reserved-section-201 -->
-<!-- reserved-section-202 -->
-<!-- reserved-section-203 -->
-<!-- reserved-section-204 -->
-<!-- reserved-section-205 -->
-<!-- reserved-section-206 -->
-<!-- reserved-section-207 -->
-<!-- reserved-section-208 -->
-<!-- reserved-section-209 -->
-<!-- reserved-section-210 -->
-<!-- reserved-section-211 -->
-<!-- reserved-section-212 -->
-<!-- reserved-section-213 -->
-<!-- reserved-section-214 -->
-<!-- reserved-section-215 -->
-<!-- reserved-section-216 -->
-<!-- reserved-section-217 -->
-<!-- reserved-section-218 -->
-<!-- reserved-section-219 -->
-<!-- reserved-section-220 -->
-<!-- reserved-section-221 -->
-<!-- reserved-section-222 -->
-<!-- reserved-section-223 -->
-<!-- reserved-section-224 -->
-<!-- reserved-section-225 -->
-<!-- reserved-section-226 -->
-<!-- reserved-section-227 -->
-<!-- reserved-section-228 -->
-<!-- reserved-section-229 -->
-<!-- reserved-section-230 -->
-<!-- reserved-section-231 -->
-<!-- reserved-section-232 -->
-<!-- reserved-section-233 -->
-<!-- reserved-section-234 -->
-<!-- reserved-section-235 -->
-<!-- reserved-section-236 -->
-<!-- reserved-section-237 -->
-<!-- reserved-section-238 -->
-<!-- reserved-section-239 -->
-<!-- reserved-section-240 -->
-<!-- reserved-section-241 -->
-<!-- reserved-section-242 -->
-<!-- reserved-section-243 -->
-<!-- reserved-section-244 -->
-<!-- reserved-section-245 -->
-<!-- reserved-section-246 -->
-<!-- reserved-section-247 -->
-<!-- reserved-section-248 -->
-<!-- reserved-section-249 -->
-<!-- reserved-section-250 -->
-<!-- reserved-section-251 -->
-<!-- reserved-section-252 -->
-<!-- reserved-section-253 -->
-<!-- reserved-section-254 -->
-<!-- reserved-section-255 -->
-<!-- reserved-section-256 -->
-<!-- reserved-section-257 -->
-<!-- reserved-section-258 -->
-<!-- reserved-section-259 -->
-<!-- reserved-section-260 -->
-<!-- reserved-section-261 -->
-<!-- reserved-section-262 -->
-<!-- reserved-section-263 -->
-<!-- reserved-section-264 -->
-<!-- reserved-section-265 -->
-<!-- reserved-section-266 -->
-<!-- reserved-section-267 -->
-<!-- reserved-section-268 -->
-<!-- reserved-section-269 -->
-<!-- reserved-section-270 -->
-<!-- reserved-section-271 -->
-<!-- reserved-section-272 -->
-<!-- reserved-section-273 -->
-<!-- reserved-section-274 -->
-<!-- reserved-section-275 -->
-<!-- reserved-section-276 -->
-<!-- reserved-section-277 -->
-<!-- reserved-section-278 -->
-<!-- reserved-section-279 -->
-<!-- reserved-section-280 -->
-<!-- reserved-section-281 -->
-<!-- reserved-section-282 -->
-<!-- reserved-section-283 -->
-<!-- reserved-section-284 -->
-<!-- reserved-section-285 -->
-<!-- reserved-section-286 -->
-<!-- reserved-section-287 -->
-<!-- reserved-section-288 -->
-<!-- reserved-section-289 -->
-<!-- reserved-section-290 -->
-<!-- reserved-section-291 -->
-<!-- reserved-section-292 -->
-<!-- reserved-section-293 -->
-<!-- reserved-section-294 -->
-<!-- reserved-section-295 -->
-<!-- reserved-section-296 -->
-<!-- reserved-section-297 -->
-<!-- reserved-section-298 -->
-<!-- reserved-section-299 -->
-<!-- reserved-section-300 -->
-<!-- reserved-section-301 -->
-<!-- reserved-section-302 -->
-<!-- reserved-section-303 -->
-<!-- reserved-section-304 -->
-<!-- reserved-section-305 -->
-<!-- reserved-section-306 -->
-<!-- reserved-section-307 -->
-<!-- reserved-section-308 -->
-<!-- reserved-section-309 -->
-<!-- reserved-section-310 -->
-<!-- reserved-section-311 -->
-<!-- reserved-section-312 -->
-<!-- reserved-section-313 -->
-<!-- reserved-section-314 -->
-<!-- reserved-section-315 -->
-<!-- reserved-section-316 -->
-<!-- reserved-section-317 -->
-<!-- reserved-section-318 -->
-<!-- reserved-section-319 -->
-<!-- reserved-section-320 -->
-<!-- reserved-section-321 -->
-<!-- reserved-section-322 -->
-<!-- reserved-section-323 -->
-<!-- reserved-section-324 -->
-<!-- reserved-section-325 -->
-<!-- reserved-section-326 -->
-<!-- reserved-section-327 -->
-<!-- reserved-section-328 -->
-<!-- reserved-section-329 -->
-<!-- reserved-section-330 -->
-<!-- reserved-section-331 -->
-<!-- reserved-section-332 -->
-<!-- reserved-section-333 -->
-<!-- reserved-section-334 -->
-<!-- reserved-section-335 -->
-<!-- reserved-section-336 -->
-<!-- reserved-section-337 -->
-<!-- reserved-section-338 -->
-<!-- reserved-section-339 -->
-<!-- reserved-section-340 -->
-<!-- reserved-section-341 -->
-<!-- reserved-section-342 -->
-<!-- reserved-section-343 -->
-<!-- reserved-section-344 -->
-<!-- reserved-section-345 -->
-<!-- reserved-section-346 -->
-<!-- reserved-section-347 -->
-<!-- reserved-section-348 -->
-<!-- reserved-section-349 -->
-<!-- reserved-section-350 -->
-<!-- reserved-section-351 -->
-<!-- reserved-section-352 -->
-<!-- reserved-section-353 -->
-<!-- reserved-section-354 -->
-<!-- reserved-section-355 -->
-<!-- reserved-section-356 -->
-<!-- reserved-section-357 -->
-<!-- reserved-section-358 -->
-<!-- reserved-section-359 -->
 
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=HarutoFX&theme=algolia&column=4&margin-w=15&margin-h=15)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HarutoFX&theme=react-dark&bg_color=0d0d1a&color=9A00FF&line=9A00FF&point=ffffff&hide_border=true)
+
+</div>
+
+---
+
+## 💭 Developer Philosophy
+
+> "Technology is best when it brings people together and solves problems invisibly. Code is the canvas; logic is the brush."
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in collaborating on innovative projects, discussing AI advancements, or exploring creative technical challenges.
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@haruto.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HarutoFX)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/harutofx)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://haruto.dev)
+
+</div>
+
+---
+
+## ☕ Support My Work
+
+If you find my open-source projects helpful, consider supporting me:
+
+<div align="center">
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/harutofx)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E0B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/harutofx)
+
+</div>
+
+---
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:000000,50:2E004F,100:9A00FF)
+
+**Thanks for visiting! Keep building amazing things. 🚀**
+
+</div>
