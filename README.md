@@ -426,10 +426,10 @@
     <td width="50%" valign="top">
       <h3>💻 Hardware Arsenal</h3>
       <ul>
-        <li><b>Primary Machine:</b> Custom Desktop (Ryzen 9 7950X, RTX 4080, 96GB RAM) — Optimal for ML models & 3D rendering workflows.</li>
+        <li><b>Primary Machine:</b> Custom Desktop (Ryzen 9 9800x3d, RTX 4070 Ti Super, 64GB DDR5 RAM) — Optimal for ML models & 3D rendering workflows.</li>
         <li><b>Mobile Workstation:</b> MacBook Pro M3 Max — Seamless development on-the-go with exceptional battery life.</li>
         <li><b>Dual Monitors:</b> 2x27" 4K IPS (Color Calibrated) — Precision design work with expanded canvas.</li>
-        <li><b>Input Devices:</b> Custom Mechanical Keyboard (Gateron Black Inks) + Logitech MX Master 3.</li>
+        <li><b>Input Devices:</b> Aula F87 + Logitech G502 .</li>
         <li><b>Peripherals:</b> Thunderbolt Dock, External SSDs, Microphone, Studio Headphones.</li>
       </ul>
     </td>
