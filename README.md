@@ -1,23 +1,25 @@
 <div align="center">
 
 <!-- ========================================== -->
-<!--               HERO SECTION                 -->
+
+<!--                  HERO                      -->
+
 <!-- ========================================== -->
 
 <a href="https://github.com/HarutoFX">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:2E004F,100:9A00FF&height=280&section=header&text=HARUTO&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Full%20Stack%20%7C%20AI%20Engineer%20%7C%20Creative&descAlignY=65&descAlign=62" 
-    width="100%" 
-    alt="Header Banner" 
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:18002B,75:5B00A8,100:9A00FF&height=300&section=header&text=HARUTO&fontSize=92&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=FULL%20STACK%20%E2%80%A2%20AI%20%E2%80%A2%203D%20%E2%80%A2%20SYSTEMS&descAlignY=64&descAlign=50"
+    width="100%"
+    alt="HARUTO Header"
   />
 </a>
 
 <br />
 
 <a href="https://github.com/HarutoFX">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=9A00FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+Engineer;Creative+Technologist;Building+Intelligent+Systems;Automating+The+Impossible" 
-    alt="Typing SVG" 
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1100&color=9A00FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+Engineer;Creative+Technologist;Building+Intelligent+Systems;Engineering+Digital+Experiences;Turning+Ideas+Into+Systems"
+    alt="Typing Animation"
   />
 </a>
 
@@ -26,487 +28,719 @@
 
 <p align="center">
   <a href="https://github.com/HarutoFX">
-    <img src="https://img.shields.io/github/followers/HarutoFX?style=for-the-badge&logo=github&logoColor=9A00FF&label=Followers&color=000000" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/HarutoFX?style=for-the-badge&logo=github&logoColor=9A00FF&label=FOLLOWERS&color=090909" alt="GitHub Followers" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=HarutoFX&label=Profile%20Views&color=9A00FF&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=HarutoFX&label=PROFILE%20VIEWS&color=9A00FF&style=for-the-badge" alt="Profile Views" />
+  <a href="https://github.com/HarutoFX?tab=repositories">
+    <img src="https://img.shields.io/github/stars/HarutoFX?style=for-the-badge&logo=github&logoColor=9A00FF&label=STARS&color=090909" alt="GitHub Stars" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/HarutoFX" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=9A00FF" alt="X/Twitter" />
+  <a href="https://x.com/HarutoFX">
+    <img src="https://img.shields.io/badge/X-090909?style=for-the-badge&logo=x&logoColor=9A00FF" alt="X" />
   </a>
-  <a href="https://linkedin.com/in/HarutoFX" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=9A00FF" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/HarutoFX">
+    <img src="https://img.shields.io/badge/LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=9A00FF" alt="LinkedIn" />
   </a>
-  <a href="https://discord.com/users/HarutoFX" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=9A00FF" alt="Discord" />
+  <a href="https://discord.com/users/HarutoFX">
+    <img src="https://img.shields.io/badge/Discord-090909?style=for-the-badge&logo=discord&logoColor=9A00FF" alt="Discord" />
   </a>
-  <a href="https://HarutoFX.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=9A00FF" alt="Portfolio" />
-  </a>
-  <a href="mailto:hello@HarutoFX.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=maildotru&logoColor=9A00FF" alt="Email" />
+  <a href="https://HarutoFX.dev">
+    <img src="https://img.shields.io/badge/Portfolio-090909?style=for-the-badge&logo=firefox&logoColor=9A00FF" alt="Portfolio" />
   </a>
 </p>
 
 <br />
 
+<p align="center">
+  <code>BUILD</code>
+  <code>CREATE</code>
+  <code>EXPERIMENT</code>
+  <code>ITERATE</code>
+</p>
+
 </div>
 
 ---
 
 <!-- ========================================== -->
-<!--               ABOUT ME                     -->
+
+<!--                ABOUT                       -->
+
 <!-- ========================================== -->
 
 <div align="center">
-  <h2>✦ ABOUT ME ✦</h2>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="60%" alt="line" />
+
+## ✦ ABOUT ME ✦
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="60%" alt="Section Divider" />
+
 </div>
 
 <br />
 
 <table width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <h3>👋 Welcome to my digital workspace</h3>
-      <p>
-        I am a multifaceted developer and creator who thrives at the intersection of logic and imagination. 
-        My expertise spans from architecting robust backend systems to designing immersive 3D experiences 
-        and engineering cutting-edge AI ecosystems. I believe in writing code that is elegant, scalable, 
-        and solves real-world problems with invisible efficiency.
-      </p>
-      <br />
-      <ul>
-        <li>🚀 <b>Full Stack Developer:</b> Crafting high-performance applications with cutting-edge frameworks and best practices.</li>
-        <li>🧠 <b>AI Engineer:</b> Building autonomous agents, RAG systems, and local LLM interfaces for next-gen automation.</li>
-        <li>💬 <b>Discord Developer:</b> Creating scalable microservices and engaging community platforms at scale.</li>
-        <li>🎨 <b>Creative Technologist:</b> Fusing code with motion design, 3D art, and interactive media experiences.</li>
-        <li>🐧 <b>Linux Architect:</b> Optimizing systems, writing production-grade bash, and mastering DevOps workflows.</li>
-        <li>🌱 <b>Perpetual Learner:</b> Constantly evolving my skills to push boundaries and explore emerging technologies.</li>
-      </ul>
-    </td>
-    <td width="40%" align="center" valign="top">
-      <br />
-      <img 
-        src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" 
-        width="100%" 
-        alt="Contribution Snake" 
-      />
-      <br />
-      <br />
-      <i><small>📈 Continuously pushing code & expanding horizons</small></i>
-      <br />
-      <br />
-      <img 
-        src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=2000&color=9A00FF&center=true&vCenter=true&width=300&lines=const%20impact%20%3D%20'infinity';%2F%2F%20Building%20The%20Future;function%20innovate()%20%7B%7D" 
-        alt="Code Snippet" 
-        width="100%"
-      />
-    </td>
-  </tr>
-</table>
+<tr>
+
+<td width="60%" valign="top">
+
+### 👋 Welcome to my digital workspace
+
+I'm **HARUTO**, a developer focused on building software at the intersection of **web engineering, artificial intelligence, automation, Linux, and interactive 3D**.
+
+I enjoy taking ideas from a rough concept and turning them into complete systems — from the interface users see to the infrastructure running underneath it.
+
+My approach is simple:
+
+> **Build things that are useful, beautiful, intelligent, and technically interesting.**
 
 <br />
+
+### ⚡ What I Build
+
+* 🚀 **Full Stack Applications** — Modern web applications with scalable architectures.
+* 🧠 **AI Systems** — Local LLMs, RAG pipelines, agents, memory systems, and automation.
+* 🎮 **Interactive 3D Experiences** — Three.js, WebGL, Blender, and real-time experiences.
+* 🤖 **Discord Systems** — Bots, community platforms, automation, moderation, and analytics.
+* 🐧 **Linux & Systems** — Custom environments, automation, CLI tooling, and infrastructure.
+* 🎨 **Creative Technology** — Motion, 3D, visual design, and technology-driven experiences.
+
+</td>
+
+<td width="40%" align="center" valign="middle">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=HarutoFX&theme=react-dark&bg_color=000000&color=9A00FF&line=9A00FF&point=FFFFFF&hide_border=true"
+width="100%"
+alt="GitHub Activity"
+/>
+
+<br /><br />
+
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1800&color=9A00FF&center=true&vCenter=true&width=330&lines=const+future+%3D+build();;systems+%3E+syntax;;ideas+%E2%86%92+code+%E2%86%92+impact"
+alt="Code Philosophy"
+/>
+
+</td>
+
+</tr>
+</table>
+
 <br />
 
 ---
 
 <!-- ========================================== -->
-<!--             MY PHILOSOPHY                  -->
+
+<!--             CORE PHILOSOPHY                 -->
+
 <!-- ========================================== -->
 
 <div align="center">
-  <h2>✦ CORE PHILOSOPHY ✦</h2>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="60%" alt="line" />
+
+## ✦ ENGINEERING PHILOSOPHY ✦
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="60%" alt="Section Divider" />
+
 </div>
 
 <br />
 
 <table width="100%">
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <h3>🏗️ Clean Architecture</h3>
-      <p align="justify">
-        I structure codebases for long-term maintainability and scalability. 
-        Every project prioritizes modular design, comprehensive testing, and 
-        documentation that future developers will thank me for.
-      </p>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h3>⚡ Intelligent Automation</h3>
-      <p align="justify">
-        Automation is freedom. I leverage AI, CI/CD pipelines, and intelligent 
-        systems to eliminate repetitive friction and allow humans to focus on 
-        what truly matters: innovation and creativity.
-      </p>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h3>✨ Pixel Perfection</h3>
-      <p align="justify">
-        Great functionality becomes invisible when wrapped in intuitive design. 
-        I obsess over bridging complex logic with seamless, beautiful user 
-        experiences that feel native and intentional.
-      </p>
-    </td>
-  </tr>
+<tr>
+
+<td width="33%" align="center" valign="top">
+
+### 🏗️ ENGINEER
+
+Build systems that are modular, maintainable, observable, and designed to evolve.
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+### 🧠 AUTOMATE
+
+Use intelligent tooling and automation to eliminate repetitive work and increase developer velocity.
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+### ✨ EXPERIENCE
+
+Technology should not only work — it should feel intuitive, responsive, and intentional.
+
+</td>
+
+</tr>
 </table>
 
 <br />
+
+<div align="center">
+
+`ARCHITECT → BUILD → TEST → OPTIMIZE → SHIP → REPEAT`
+
+</div>
+
 <br />
 
 ---
 
 <!-- ========================================== -->
-<!--             TECH STACK GRID                -->
+
+<!--              TECH STACK                    -->
+
 <!-- ========================================== -->
 
 <div align="center">
-  <h2>✦ TECH STACK & SKILLS ✦</h2>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="60%" alt="line" />
+
+## ✦ TECH STACK & SKILLS ✦
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="60%" alt="Section Divider" />
+
 </div>
 
 <br />
 
 <table width="100%">
-  <!-- ROW 1: Languages & Frontend -->
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">💻 Languages</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff" alt="Python" />
-        <br/>
-        <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=fff" alt="Lua" />
-        <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=000" alt="Go" />
-        <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=fff" alt="Bash" />
-        <br/>
-        <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=fff" alt="HTML" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff" alt="CSS" />
-        <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=fff" alt="SQL" />
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">⚛️ Frontend & UI</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000" alt="React" />
-        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=fff" alt="Next.js" />
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff" alt="Tailwind" />
-        <br/>
-        <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=fff" alt="Three.js" />
-        <img src="https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=fff" alt="Framer Motion" />
-        <img src="https://img.shields.io/badge/Sass-C69?style=for-the-badge&logo=sass&logoColor=fff" alt="Sass" />
-        <br/>
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff" alt="Vite" />
-        <img src="https://img.shields.io/badge/WebGL-000000?style=for-the-badge&logo=khronos&logoColor=fff" alt="WebGL" />
-      </div>
-    </td>
-  </tr>
-  
-  <!-- ROW 2: Backend & Databases -->
-  <tr>
-    <td width="50%" valign="top">
-      <br />
-      <h3 align="center">⚙️ Backend & APIs</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff" alt="Node.js" />
-        <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=fff" alt="Express" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=fff" alt="FastAPI" />
-        <br/>
-        <img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=fff" alt="Discord.js" />
-        <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=fff" alt="GraphQL" />
-        <img src="https://img.shields.io/badge/REST_API-FF6B6B?style=for-the-badge&logo=json&logoColor=fff" alt="REST" />
-        <br/>
-        <img src="https://img.shields.io/badge/Webhooks-FFA500?style=for-the-badge&logo=webhook&logoColor=fff" alt="Webhooks" />
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <br />
-      <h3 align="center">🗄️ Databases & Storage</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=fff" alt="PostgreSQL" />
-        <img src="https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=fff" alt="MongoDB" />
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=fff" alt="Redis" />
-        <br/>
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=fff" alt="SQLite" />
-        <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=fff" alt="Prisma" />
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=fff" alt="Supabase" />
-      </div>
-    </td>
-  </tr>
 
-  <!-- ROW 3: AI & DevOps -->
-  <tr>
-    <td width="50%" valign="top">
-      <br />
-      <h3 align="center">🧠 Artificial Intelligence</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=fff" alt="OpenAI API" />
-        <img src="https://img.shields.io/badge/Ollama-4D1F0D?style=for-the-badge&logo=ollama&logoColor=fff" alt="Ollama" />
-        <img src="https://img.shields.io/badge/LangChain-1C3144?style=for-the-badge&logo=chainlink&logoColor=fff" alt="LangChain" />
-        <br/>
-        <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" alt="Hugging Face" />
-        <img src="https://img.shields.io/badge/AI_Agents-6A0572?style=for-the-badge&logo=probot&logoColor=fff" alt="AI Agents" />
-        <img src="https://img.shields.io/badge/RAG_Systems-FF6B6B?style=for-the-badge" alt="RAG" />
-        <br/>
-        <img src="https://img.shields.io/badge/Pinecone-009FDF?style=for-the-badge&logo=pinecone&logoColor=fff" alt="Pinecone" />
-        <img src="https://img.shields.io/badge/Vector_DB-9A00FF?style=for-the-badge" alt="Vector DB" />
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <br />
-      <h3 align="center">🚀 DevOps & Infrastructure</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff" alt="Docker" />
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff" alt="Git" />
-        <img src="https://img.shields.io/badge/GitHub_Actions-2088F0?style=for-the-badge&logo=githubactions&logoColor=fff" alt="GitHub Actions" />
-        <br/>
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000" alt="Linux" />
-        <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=fff" alt="Nginx" />
-        <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=000" alt="AWS" />
-        <br/>
-        <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=fff" alt="Vercel" />
-        <img src="https://img.shields.io/badge/CI%2FCD-9A00FF?style=for-the-badge" alt="CI/CD" />
-      </div>
-    </td>
-  </tr>
+<tr>
 
-  <!-- ROW 4: Creative Suite -->
-  <tr>
-    <td colspan="2" valign="top">
-      <br />
-      <h3 align="center">🎨 Creative & Design Tools</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=fff" alt="Blender" />
-        <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=fff" alt="Photoshop" />
-        <img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=fff" alt="After Effects" />
-        <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=fff" alt="Premiere Pro" />
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff" alt="Figma" />
-        <img src="https://img.shields.io/badge/DaVinci_Resolve-000000?style=for-the-badge&logo=blackmagicdesign&logoColor=fff" alt="DaVinci" />
-      </div>
-    </td>
-  </tr>
+<td width="50%" valign="top">
+
+<h3 align="center">💻 Languages</h3>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,python,go,lua,bash,html,css,sql&perline=5" alt="Languages" />
+
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">⚛️ Frontend</h3>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,vite,sass&perline=4" alt="Frontend Stack" />
+
+</div>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">⚙️ Backend & APIs</h3>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,graphql,discordjs&perline=4" alt="Backend Stack" />
+
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🗄️ Databases</h3>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,sqlite,prisma,supabase&perline=4" alt="Database Stack" />
+
+</div>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🧠 AI & Machine Learning</h3>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch&perline=4" alt="AI Stack" />
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/OLLAMA-090909?style=for-the-badge&logo=ollama&logoColor=9A00FF" alt="Ollama" />
+<img src="https://img.shields.io/badge/RAG-090909?style=for-the-badge&logoColor=9A00FF" alt="RAG" />
+<img src="https://img.shields.io/badge/AI%20AGENTS-090909?style=for-the-badge&logoColor=9A00FF" alt="AI Agents" />
+<img src="https://img.shields.io/badge/LOCAL%20LLMs-090909?style=for-the-badge&logoColor=9A00FF" alt="Local LLMs" />
+
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🚀 DevOps & Infrastructure</h3>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,docker,git,githubactions,nginx,aws,vercel&perline=4" alt="DevOps Stack" />
+
+</div>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="2" valign="top">
+
+<h3 align="center">🎨 Creative & 3D</h3>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=blender,figma,photoshop&perline=6" alt="Creative Tools" />
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/THREE.JS-090909?style=for-the-badge&logo=threedotjs&logoColor=FFFFFF" alt="Three.js" />
+<img src="https://img.shields.io/badge/WEBGL-090909?style=for-the-badge&logo=webgl&logoColor=9A00FF" alt="WebGL" />
+<img src="https://img.shields.io/badge/FRAMER%20MOTION-090909?style=for-the-badge&logo=framer&logoColor=9A00FF" alt="Framer Motion" />
+<img src="https://img.shields.io/badge/AFTER%20EFFECTS-090909?style=for-the-badge&logo=adobeaftereffects&logoColor=9A00FF" alt="After Effects" />
+<img src="https://img.shields.io/badge/DAVINCI%20RESOLVE-090909?style=for-the-badge&logo=davinciresolve&logoColor=9A00FF" alt="DaVinci Resolve" />
+
+</div>
+
+</td>
+
+</tr>
+
 </table>
 
-<br />
 <br />
 
 ---
 
 <!-- ========================================== -->
-<!--             FEATURED PROJECTS              -->
+
+<!--           FEATURED PROJECTS                 -->
+
 <!-- ========================================== -->
 
 <div align="center">
-  <h2>✦ FEATURED PROJECTS ✦</h2>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="60%" alt="line" />
+
+## ✦ FEATURED PROJECTS ✦
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="60%" alt="Section Divider" />
+
 </div>
 
 <br />
 
 <table width="100%">
-  <!-- PROJECT ROW 1 -->
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🤖 CASUAL CREW AI</h3>
-      <p align="center"><i>Enterprise AI Ecosystem for Communities</i></p>
-      <p align="justify">
-        A sophisticated, production-ready system designed for intelligent workflow automation 
-        with dynamic persona switching. Features long-term semantic memory via vector databases 
-        to maintain contextual awareness across extended conversations and sessions.
-      </p>
-      <ul>
-        <li>✅ Advanced RAG (Retrieval-Augmented Generation) implementation</li>
-        <li>✅ Multi-agent orchestration with tool-calling capabilities</li>
-        <li>✅ Automated data pipeline generation and ingestion</li>
-        <li>✅ Real-time memory persistence across sessions</li>
-      </ul>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff" alt="Python" />
-        <img src="https://img.shields.io/badge/LangChain-1C3144?style=flat-square&logo=chainlink&logoColor=fff" alt="LangChain" />
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=fff" alt="OpenAI" />
-        <img src="https://img.shields.io/badge/Pinecone-009FDF?style=flat-square&logo=pinecone&logoColor=fff" alt="Pinecone" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=fff" alt="FastAPI" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">💬 Nexus Discord Architecture</h3>
-      <p align="center"><i>Next-Gen Community Management Platform</i></p>
-      <p align="justify">
-        A powerful multi-purpose Discord bot built on a battle-tested microservices architecture. 
-        Handles complex music streaming with adaptive bitrate, intelligent slash command routing, 
-        and a database-backed leveling system with real-time analytics.
-      </p>
-      <ul>
-        <li>✅ Sharded architecture scaling across thousands of guilds</li>
-        <li>✅ Custom ORM abstractions for seamless data migrations</li>
-        <li>✅ High-fidelity audio streaming with intelligent reconnection logic</li>
-        <li>✅ Event-driven command pipeline with middleware stack</li>
-      </ul>
-      <p align="center">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=fff" alt="Discord.js" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=fff" alt="Node.js" />
-        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=fff" alt="PostgreSQL" />
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=fff" alt="Redis" />
-      </p>
-    </td>
-  </tr>
-  
-  <!-- PROJECT ROW 2 -->
-  <tr>
-    <td width="50%" valign="top">
-      <br />
-      <h3 align="center">⚡ Omni-Automator</h3>
-      <p align="center"><i>OS-Level Developer Friction Eliminator</i></p>
-      <p align="justify">
-        A comprehensive collection of advanced shell scripts, background daemons, and intelligent 
-        automation pipelines that optimize Linux environments. Designed to handle repetitive setup, 
-        system maintenance, health checks, and local deployments with zero manual intervention.
-      </p>
-      <ul>
-        <li>✅ Zero-touch provisioning for new developer machines</li>
-        <li>✅ Autonomous Docker container health monitoring</li>
-        <li>✅ Real-time system resource tracking with alerts</li>
-        <li>✅ Discord webhook integrations for notifications</li>
-      </ul>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=fff" alt="Bash" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=fff" alt="Docker" />
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000" alt="Linux" />
-        <img src="https://img.shields.io/badge/SystemD-000000?style=flat-square&logo=systemd&logoColor=fff" alt="SystemD" />
-        <img src="https://img.shields.io/badge/Cron-FF9999?style=flat-square" alt="Cron" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <br />
-      <h3 align="center">🌐 Aero3D WebGL Engine</h3>
-      <p align="center"><i>Immersive 3D Experiences for Modern Browsers</i></p>
-      <p align="justify">
-        A robust full-stack web application showcasing seamless integration between Blender exports 
-        and Three.js. Enables real-time interaction with 3D models featuring baked lighting, physics 
-        simulation, and responsive overlays synchronized with 3D camera movements.
-      </p>
-      <ul>
-        <li>✅ Optimized GLTF/GLB asset loading for fast FCP</li>
-        <li>✅ Custom GLSL shaders for unique visual effects</li>
-        <li>✅ Physics-based animation with Cannon.js integration</li>
-        <li>✅ Responsive UI overlays with real-time synchronization</li>
-      </ul>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=fff" alt="Next.js" />
-        <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=fff" alt="Three.js" />
-        <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=fff" alt="Blender" />
-        <img src="https://img.shields.io/badge/Framer-000000?style=flat-square&logo=framer&logoColor=fff" alt="Framer" />
-        <img src="https://img.shields.io/badge/WebGL-000000?style=flat-square&logo=khronos&logoColor=fff" alt="WebGL" />
-      </p>
-    </td>
-  </tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🧠 VORYN AI OS</h3>
+
+<p align="center">
+<i>Terminal-first intelligent computing environment</i>
+</p>
+
+<p align="justify">
+VORYN is an experimental AI-focused operating environment designed around a terminal-first workflow. The project explores local intelligence, tool orchestration, automation, memory, and developer-centric workflows.
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-090909?style=flat-square&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/Ollama-090909?style=flat-square&logo=ollama&logoColor=9A00FF" />
+<img src="https://img.shields.io/badge/RAG-090909?style=flat-square&logoColor=9A00FF" />
+<img src="https://img.shields.io/badge/Linux-090909?style=flat-square&logo=linux&logoColor=FCC624" />
+
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🤖 CASUAL CREW AI</h3>
+
+<p align="center">
+<i>AI infrastructure for online communities</i>
+</p>
+
+<p align="justify">
+An AI ecosystem built around community automation, intelligent assistance, contextual memory, moderation workflows, analytics, and extensible agent capabilities.
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-090909?style=flat-square&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/FastAPI-090909?style=flat-square&logo=fastapi&logoColor=009688" />
+<img src="https://img.shields.io/badge/Discord-090909?style=flat-square&logo=discord&logoColor=5865F2" />
+<img src="https://img.shields.io/badge/AI-090909?style=flat-square&logoColor=9A00FF" />
+
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🚗 BMW M440i Experience</h3>
+
+<p align="center">
+<i>Interactive automotive 3D experience</i>
+</p>
+
+<p align="justify">
+A cinematic web experience combining Next.js, Three.js, real-time 3D rendering, scroll-driven interactions, motion design, and automotive-focused visual presentation.
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Next.js-090909?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Three.js-090909?style=flat-square&logo=threedotjs&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Blender-090909?style=flat-square&logo=blender&logoColor=F5792A" />
+<img src="https://img.shields.io/badge/WebGL-090909?style=flat-square&logo=webgl&logoColor=9A00FF" />
+
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🌐 CASUAL CREW</h3>
+
+<p align="center">
+<i>Interactive community platform</i>
+</p>
+
+<p align="justify">
+A modern community website designed around Discord integration, member presence, events, games, clips, community statistics, interactive visuals, and a premium digital experience.
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/React-090909?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-090909?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Tailwind-090909?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
+<img src="https://img.shields.io/badge/Discord-090909?style=flat-square&logo=discord&logoColor=5865F2" />
+
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🚘 Mercedes E450 Experience</h3>
+
+<p align="center">
+<i>Premium automotive WebGL concept</i>
+</p>
+
+<p align="justify">
+An experimental interactive automotive interface focused on cinematic presentation, real-time 3D rendering, responsive layouts, and immersive web interactions.
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Next.js-090909?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Three.js-090909?style=flat-square&logo=threedotjs&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Framer%20Motion-090909?style=flat-square&logo=framer&logoColor=9A00FF" />
+
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🧪 LOCAL AI LAB</h3>
+
+<p align="center">
+<i>Experimenting with local intelligence</i>
+</p>
+
+<p align="justify">
+A personal AI playground exploring local LLM inference, model orchestration, vector databases, embeddings, RAG, developer assistants, and GPU-accelerated workloads.
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Ollama-090909?style=flat-square&logo=ollama&logoColor=9A00FF" />
+<img src="https://img.shields.io/badge/PyTorch-090909?style=flat-square&logo=pytorch&logoColor=EE4C2C" />
+<img src="https://img.shields.io/badge/ChromaDB-090909?style=flat-square&logoColor=9A00FF" />
+<img src="https://img.shields.io/badge/CUDA-090909?style=flat-square&logo=nvidia&logoColor=76B900" />
+
+</p>
+
+</td>
+
+</tr>
+
 </table>
 
-<br />
 <br />
 
 ---
 
 <!-- ========================================== -->
-<!--             MY WORKSPACE                   -->
+
+<!--              WORKSPACE                     -->
+
 <!-- ========================================== -->
 
 <div align="center">
-  <h2>✦ WORKSPACE & GEAR ✦</h2>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="60%" alt="line" />
+
+## ✦ WORKSPACE & HARDWARE ✦
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="60%" alt="Section Divider" />
+
 </div>
 
 <br />
 
 <table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💻 Hardware Arsenal</h3>
-      <ul>
-        <li><b>Primary Machine:</b> Custom Desktop (Ryzen 9 9800x3d, RTX 4070 Ti Super, 64GB DDR5 RAM) — Optimal for ML models & 3D rendering workflows.</li>
-        <li><b>Mobile Workstation:</b> MacBook Pro M3 Max — Seamless development on-the-go with exceptional battery life.</li>
-        <li><b>Dual Monitors:</b> 2x27" 4K IPS (Color Calibrated) — Precision design work with expanded canvas.</li>
-        <li><b>Input Devices:</b> Aula F87 + Logitech G502 .</li>
-        <li><b>Peripherals:</b> Thunderbolt Dock, External SSDs, Microphone, Studio Headphones.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛠️ Software & Development Environment</h3>
-      <ul>
-        <li><b>Primary OS:</b> Arch Linux (Desktop) / macOS (Laptop) — Maximum control and customization.</li>
-        <li><b>Code Editor:</b> Neovim with Custom Lua Configuration / VS Code for collaborative work.</li>
-        <li><b>Terminal Stack:</b> Alacritty + Tmux + Zsh — High-performance terminal multiplexing.</li>
-        <li><b>Design Tools:</b> Adobe CC, Blender, Figma — Complete creative pipeline.</li>
-        <li><b>Containerization:</b> Docker Desktop, Podman — Container orchestration & development.</li>
-      </ul>
-    </td>
-  </tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🖥️ Main Machine</h3>
+
+<ul>
+<li><b>GPU:</b> NVIDIA GeForce RTX 5080</li>
+<li><b>Architecture:</b> NVIDIA Blackwell</li>
+<li><b>VRAM:</b> 16 GB GDDR7</li>
+<li><b>CPU:</b> AMD Ryzen</li>
+<li><b>Memory:</b> DDR5</li>
+<li><b>Storage:</b> NVMe + SSD</li>
+<li><b>Display:</b> High-refresh gaming / development setup</li>
+</ul>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🐧 Development Environment</h3>
+
+<ul>
+<li><b>Operating Systems:</b> Windows + Arch Linux</li>
+<li><b>Desktop:</b> Hyprland / Wayland</li>
+<li><b>Editor:</b> VS Code / Neovim</li>
+<li><b>Terminal:</b> Zsh / Bash</li>
+<li><b>Containers:</b> Docker</li>
+<li><b>AI:</b> Ollama + local GPU workloads</li>
+<li><b>Workflow:</b> Git + GitHub + CLI-first tooling</li>
+</ul>
+
+</td>
+
+</tr>
+
 </table>
 
 <br />
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/RTX%205080-BLACKWELL-090909?style=for-the-badge&logo=nvidia&logoColor=76B900" />
+<img src="https://img.shields.io/badge/16GB%20GDDR7-9A00FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LOCAL%20AI-090909?style=for-the-badge&logoColor=9A00FF" />
+<img src="https://img.shields.io/badge/3D%20RENDERING-090909?style=for-the-badge&logo=blender&logoColor=F5792A" />
+
+</div>
+
 <br />
 
 ---
 
 <!-- ========================================== -->
-<!--             GITHUB STATS                   -->
+
+<!--              GITHUB STATS                  -->
+
 <!-- ========================================== -->
 
 <div align="center">
-  <h2>✦ GITHUB ANALYTICS ✦</h2>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="60%" alt="line" />
+
+## ✦ GITHUB ANALYTICS ✦
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="60%" alt="Section Divider" />
+
 </div>
 
 <br />
 
-<!-- GitHub Trophies -->
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img 
-      src="https://github-profile-trophy.vercel.app/?username=HarutoFX&theme=radical&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&title-text-color=9A00FF&icon-color=9A00FF&text-color=ffffff" 
-      alt="GitHub Trophies" 
-    />
-  </a>
-</div>
 
-<br />
-
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img 
-        src="https://github-readme-stats.vercel.app/api?username=HarutoFX&show_icons=true&theme=transparent&title_color=9A00FF&text_color=ffffff&icon_color=9A00FF&bg_color=000000&hide_border=true&border_radius=10&ring_color=9A00FF&card_width=400" 
-        alt="GitHub Stats" 
-      />
-    </td>
-    <td width="50%" align="center">
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarutoFX&layout=compact&theme=transparent&title_color=9A00FF&text_color=ffffff&icon_color=9A00FF&bg_color=000000&hide_border=true&border_radius=10&card_width=400" 
-        alt="Top Languages" 
-      />
-    </td>
-  </tr>
-</table>
-
-<br />
-
-<div align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=HarutoFX&theme=transparent&background=000000&ring=9A00FF&fire=9A00FF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=9A00FF&sideLabels=ffffff&dates=ffffff&hide_border=true" 
-    alt="GitHub Streak" 
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=HarutoFX&theme=radical&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&title-text-color=9A00FF&icon-color=9A00FF&text-color=ffffff"
+    alt="GitHub Trophies"
   />
+</a>
+
 </div>
 
 <br />
 
+<table width="100%">
+
+<tr>
+
+<td width="50%" align="center">
+
+<img
+src="https://github-readme-stats.vercel.app/api?username=HarutoFX&show_icons=true&theme=transparent&title_color=9A00FF&text_color=FFFFFF&icon_color=9A00FF&bg_color=090909&hide_border=true&border_radius=12&card_width=400"
+alt="GitHub Statistics"
+/>
+
+</td>
+
+<td width="50%" align="center">
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarutoFX&layout=compact&theme=transparent&title_color=9A00FF&text_color=FFFFFF&icon_color=9A00FF&bg_color=090909&hide_border=true&border_radius=12&card_width=400"
+alt="Top Languages"
+/>
+
+</td>
+
+</tr>
+
+</table>
+
+<br />
+
 <div align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=HarutoFX&theme=react-dark&bg_color=000000&color=9A00FF&line=9A00FF&point=ffffff&hide_border=true" 
-    alt="Activity Graph" 
+
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=HarutoFX&theme=transparent&background=090909&ring=9A00FF&fire=9A00FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=9A00FF&sideLabels=FFFFFF&dates=FFFFFF&hide_border=true"
+alt="GitHub Streak"
+/>
+
+</div>
+
+<br />
+
+---
+
+<!-- ========================================== -->
+
+<!--              CURRENTLY BUILDING             -->
+
+<!-- ========================================== -->
+
+<div align="center">
+
+## ✦ CURRENTLY BUILDING ✦
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="60%" alt="Section Divider" />
+
+</div>
+
+<br />
+
+<table width="100%">
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎯 Active Focus
+
+* 🧠 **Local AI & LLM systems**
+* 🤖 **AI agents & intelligent automation**
+* 🌐 **Full-stack application architecture**
+* 🎮 **Interactive WebGL experiences**
+* 🚗 **Automotive 3D showcases**
+* 🐧 **Linux & developer tooling**
+* ⚡ **GPU-accelerated workloads**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📚 Exploring
+
+* 🔬 LLM optimization & quantization
+* 🦀 Rust & systems programming
+* 🎨 WebGPU & advanced graphics
+* 🧩 Distributed systems
+* ☸️ Container orchestration
+* 🧠 Vector databases & semantic memory
+* 🚀 Performance engineering
+
+</td>
+
+</tr>
+
+</table>
+
+<br />
+
+<div align="center">
+
+### `IDEAS ARE CHEAP. SYSTEMS ARE BUILT.`
+
+</div>
+
+<br />
+
+---
+
+<!-- ========================================== -->
+
+<!--          CONTRIBUTION MATRIX               -->
+
+<!-- ========================================== -->
+
+<div align="center">
+
+## ✦ CONTRIBUTION MATRIX ✦
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="60%" alt="Section Divider" />
+
+<br /><br />
+
+<i>Every commit is another iteration.</i>
+
+<br /><br />
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/HarutoFX/HarutoFX/output/github-contribution-grid-snake-dark.svg"
   />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/HarutoFX/HarutoFX/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/HarutoFX/HarutoFX/output/github-contribution-grid-snake-dark.svg"
+    width="100%"
+    alt="GitHub Contribution Snake"
+  />
+</picture>
+
 </div>
 
 <br />
@@ -515,137 +749,69 @@
 ---
 
 <!-- ========================================== -->
-<!--             FOCUS & LEARNING               -->
+
+<!--             CONNECT                        -->
+
 <!-- ========================================== -->
 
 <div align="center">
-  <h2>✦ DEVELOPMENT ROADMAP ✦</h2>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="60%" alt="line" />
+
+## ✦ CONNECT & COLLABORATE ✦
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="60%" alt="Section Divider" />
+
 </div>
 
 <br />
 
 <table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🎯 Current Objectives</h3>
-      <ul>
-        <li>🏗️ Architecting fault-tolerant microservices for Discord at scale</li>
-        <li>🧠 Refining CASUAL CREW AI with advanced prompt engineering</li>
-        <li>🎬 Bridging 3D motion design with interactive WebGL experiences</li>
-        <li>⚙️ Developing CLI tools in Rust for extreme performance</li>
-        <li>🌐 Contributing to OSS UI component libraries & frameworks</li>
-        <li>📊 Building analytics pipelines for real-time data processing</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📚 Currently Studying</h3>
-      <ul>
-        <li>🔬 Advanced LLM fine-tuning (LoRA, QLoRA, quantization)</li>
-        <li>🦀 Memory-safe systems programming with Rust</li>
-        <li>🎨 Custom WebGPU shaders for next-gen graphics</li>
-        <li>✂️ Advanced compositing & motion tracking in After Effects</li>
-        <li>☸️ Kubernetes orchestration for self-hosted deployments</li>
-        <li>🔗 Building blockchain-integrated applications</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+
+<tr>
+
+<td width="50%" align="center" valign="middle">
+
+### 📫 Let's Build
+
+Interested in **AI, full-stack engineering, 3D, automation, Linux, or open source?**
+
+I'm always interested in interesting ideas, technical discussions, and ambitious projects.
 
 <br />
 
-<div align="center">
-  <blockquote>
-    <h3 style="color: #9A00FF;">
-      <i>
-        "Technology is best when it brings people together and solves problems invisibly. <br />
-        Code is the canvas; logic is the brush. Impact is the masterpiece."
-      </i>
-    </h3>
-  </blockquote>
-</div>
+<a href="https://github.com/HarutoFX">
+  <img src="https://img.shields.io/badge/GitHub-090909?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
+</a>
 
-<br />
-<br />
+<a href="https://discord.com/users/HarutoFX">
+  <img src="https://img.shields.io/badge/Discord-090909?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord" />
+</a>
 
----
+<a href="mailto:hello@HarutoFX.dev">
+  <img src="https://img.shields.io/badge/Email-090909?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
+</a>
 
-<!-- ========================================== -->
-<!--             SNAKE ANIMATION                -->
-<!-- ========================================== -->
+</td>
 
-<div align="center">
-  <h2>✦ CONTRIBUTION MATRIX ✦</h2>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="60%" alt="line" />
-</div>
+<td width="50%" align="center" valign="middle">
+
+### ☕ Support
+
+If something I've built helped you, inspired you, or saved you some time, you can support the work.
 
 <br />
 
-<div align="center">
-  <p><i>Watch the snake consume my daily contributions 🐍</i></p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarutoFX/HarutoFX/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HarutoFX/HarutoFX/output/github-contribution-grid-snake.svg">
-    <img 
-      alt="github contribution grid snake animation" 
-      src="https://raw.githubusercontent.com/HarutoFX/HarutoFX/output/github-contribution-grid-snake-dark.svg"
-      width="100%"
-    />
-  </picture>
-</div>
+<a href="https://www.buymeacoffee.com/HarutoFX">
+  <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-090909?style=for-the-badge&logo=buymeacoffee&logoColor=FFDD00" alt="Buy Me A Coffee" />
+</a>
 
-<br />
-<br />
+<a href="https://ko-fi.com/HarutoFX">
+  <img src="https://img.shields.io/badge/Ko--fi-090909?style=for-the-badge&logo=kofi&logoColor=FF5E0B" alt="Ko-fi" />
+</a>
 
----
+</td>
 
-<!-- ========================================== -->
-<!--             CONNECT & SUPPORT              -->
-<!-- ========================================== -->
+</tr>
 
-<div align="center">
-  <h2>✦ CONNECT & COLLABORATE ✦</h2>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="60%" alt="line" />
-</div>
-
-<br />
-
-<table width="100%">
-  <tr>
-    <td width="50%" align="center" valign="middle">
-      <h3>📫 Let's Build Something Amazing</h3>
-      <p>
-        Always open to discussing innovative architectures, <br />
-        AI advancements, or collaborating on groundbreaking <br />
-        open-source projects. Let's create impact together!
-      </p>
-      <br />
-      <a href="mailto:hello@HarutoFX.dev" target="_blank">
-        <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=fff" alt="Email" />
-      </a>
-      <a href="https://discord.com/users/HarutoFX" target="_blank">
-        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=fff" alt="Discord" />
-      </a>
-      <a href="https://github.com/HarutoFX" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff" alt="GitHub" />
-      </a>
-    </td>
-    <td width="50%" align="center" valign="middle">
-      <h3>☕ Support My Work</h3>
-      <p>
-        If my tools, bots, or open-source contributions <br />
-        have enhanced your development workflow, <br />
-        consider fueling my caffeine-powered innovation!
-      </p>
-      <br />
-      <a href="https://www.buymeacoffee.com/HarutoFX" target="_blank">
-        <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000" alt="Buy Me A Coffee" />
-      </a>
-      <a href="https://ko-fi.com/HarutoFX" target="_blank">
-        <img src="https://img.shields.io/badge/Ko--fi-FF5E0B?style=for-the-badge&logo=kofi&logoColor=fff" alt="Ko-fi" />
-      </a>
-    </td>
-  </tr>
 </table>
 
 <br />
@@ -654,27 +820,36 @@
 ---
 
 <!-- ========================================== -->
+
 <!--                  FOOTER                    -->
+
 <!-- ========================================== -->
 
 <div align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:2E004F,100:9A00FF&height=150&section=footer&text=Thanks%20for%20dropping%20by!&fontSize=35&fontAlignY=65&animation=twinkling&fontColor=ffffff" 
-    width="100%" 
-    alt="Footer Banner" 
-  />
 
-  <br />
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:18002B,75:5B00A8,100:9A00FF&height=170&section=footer&text=BUILD.%20CREATE.%20EVOLVE.&fontSize=36&fontAlignY=65&animation=twinkling&fontColor=ffffff"
+width="100%"
+alt="Footer"
+/>
 
-  <p>
-    <strong>Crafted with ❤️ & ☕ | Last Updated: 2026</strong>
-  </p>
+<br />
+
+<strong>Crafted with ❤️ & ☕ by HARUTO</strong>
+
+<br />
+
+<sub>Full Stack Developer • AI Engineer • Creative Technologist</sub>
+
+<br /><br />
+
+<sub>Last Updated: 2026</sub>
+
 </div>
 
 <!--
 ======================================================================
-  End of Profile README.md
-  Generated for HARUTO - Full Stack Developer | AI Engineer
-  Contributions & collaborations welcome! Let's build the future.
+  HARUTO — GitHub Profile
+  Full Stack • AI • 3D • Systems
 ======================================================================
 -->
